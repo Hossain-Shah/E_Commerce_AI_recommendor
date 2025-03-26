@@ -5,6 +5,7 @@
 
 ## Technology:
 - DOT product
+- TF-IDF
 - K-Means clustering
-- BERT
 - Neural network
+- BERT
